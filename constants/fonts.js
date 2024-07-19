@@ -1,0 +1,3 @@
+const FONTS = {
+    black : require("..")
+}
